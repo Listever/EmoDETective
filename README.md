@@ -4,11 +4,12 @@
 
 <!--EmoVideoLLaMA() 是在EmoCues上指令微调，然后在特定数据集上标签微调的多模态情感大模型。-->
 EmoVideoLLaMA () is a multimodal emotional large-scale model that instructs fine tuning on EmoCues and then labels fine tuning on a specific data set.
+EmoVideoLLaMA is already test on YE-8 and YF-6 dataset.
 
 # ToDo List
 - [ ] Supprot more MLLMs(audio-visual).
 - [ ] New Benchmark.
-- [ ] 
+- [ ] Support more datasets (MediaEval2016)
 
 ## 👍 Acknowledgement
 The codebase of EmoVideoLLaMA 2 is adapted from [**LLaVA 1.5**](https:github.com/haotian-liu/LLaVA) and [**FastChat**](https://github.com/lm-sys/FastChat). We are also grateful for the following projects our EmoVideoLLaMA 2 arise from:
