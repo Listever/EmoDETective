@@ -1,10 +1,10 @@
-# EmoCues/EmoCause
+# EmoCause
 
-# EmoVideoLLaMA
+# EmoDETective
 
-<!--EmoVideoLLaMA() 是在EmoCues上指令微调，然后在特定数据集上标签微调的多模态情感大模型。-->
-EmoVideoLLaMA () is a multimodal emotional large-scale model that instructs fine tuning on EmoCues and then labels fine tuning on a specific data set.
-EmoVideoLLaMA is already test on YE-8 and YF-6 dataset.
+<!--EmoDETective() 是在EmoCues上指令微调，然后在特定数据集上标签微调的多模态情感大模型。-->
+EmoDETective () is a multimodal emotional large-scale model that instructs fine tuning on EmoCues and then labels fine tuning on a specific data set.
+EmoDETective is already test on YE-8 and YF-6 dataset.
 
 # ToDo List
 - [ ] Supprot more MLLMs(audio-visual).
