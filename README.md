@@ -1,7 +1,7 @@
-# EmoCause
+# EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos (Accepted by ACM MM 2025)
 Coming soon.
 
-# EmoDETective
+# EmoCause
 Coming soon.
 
 
